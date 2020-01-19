@@ -1,2 +1,0 @@
-# svelte-demo
-Begin app
